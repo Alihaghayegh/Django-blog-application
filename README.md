@@ -17,6 +17,11 @@ This repo contains Django blog application
 
 - [x] using canonical URLs for models
 - [x] creating SEO-friendly URLs for posts
-- [ ] modifying the URL patterns
-- [ ] modifying the views
-- [ ] modifying the canonical URL for posts
+- [x] modifying the URL patterns
+- [x] modifying the views
+- [x] modifying the canonical URL for posts
+- [ ] adding pagination to the post list view
+- [ ] creating a pagination template
+- [ ] handling pagination errors
+
+
