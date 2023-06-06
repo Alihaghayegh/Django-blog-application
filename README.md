@@ -9,6 +9,14 @@ This repo contains Django blog application
 - [x] creating an administration site for models
 - [x] creating QuerySets and managers
 - [x] building list and detail views
-- [ ] creating template for views
-- [ ] The request/response cycle
-- [ ] end of chapter one
+- [x] creating template for views
+- [x] The request/response cycle
+- [x] end of chapter one
+
+**`chapter two:`**
+
+- [x] using canonical URLs for models
+- [x] creating SEO-friendly URLs for posts
+- [ ] modifying the URL patterns
+- [ ] modifying the views
+- [ ] modifying the canonical URL for posts
