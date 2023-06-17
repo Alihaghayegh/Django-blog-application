@@ -22,6 +22,6 @@ This repo contains Django blog application
 - [x] modifying the canonical URL for posts
 - [x] adding pagination to the post list view
 - [x] creating a pagination template
-- [ ] handling pagination errors
+- [x] handling pagination errors
 
 
