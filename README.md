@@ -23,5 +23,9 @@ This repo contains Django blog application
 - [x] adding pagination to the post list view
 - [x] creating a pagination template
 - [x] handling pagination errors
-
-
+- [ ] using a class-based view to list posts
+- [ ] recommending posts by email
+- [ ] creating forms
+- [ ] handling forms in views
+- [ ] sending emails
+- [ ] 
