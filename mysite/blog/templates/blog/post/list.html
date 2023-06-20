@@ -15,5 +15,6 @@
     {% empty %}
         <p>No posts to display.</p>
     {% endfor %}
-    {% include "pagination.html" with page=posts %}
+    {% comment %} {% include "pagination.html" with page=posts %} {% endcomment %}
+    {% include "pagination.html" with page=page_obj %}
 {% endblock %}
