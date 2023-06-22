@@ -126,11 +126,11 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Email settings
 
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'haghayeghali95@gmail.com'
-EMAIL_HOST_PASSWORD = '**********'
-EMAIL_PORT = 587
-EMAIL_USE_TLS = True
+# EMAIL_HOST = 'smtp.gmail.com'
+# EMAIL_HOST_USER = '***********'
+# EMAIL_HOST_PASSWORD = '**********'
+# EMAIL_PORT = 587
+# EMAIL_USE_TLS = True
 
 # This line of code writes the email in the shell instead of sending them
-# EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
