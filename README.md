@@ -28,9 +28,12 @@ This repo contains Django blog application
 - [x] creating forms
 - [x] handling forms in views
 - [x] sending emails
-- [ ] creating a comment system
-- [ ] creating a model for comments
-- [ ] adding comments to the administration site
+- [x] creating a comment system
+- [x] creating a model for comments
+- [x] adding comments to the administration site
 - [ ] crating forms form models
 - [ ] handling modelforms in views
+- [ ] creatig templates for the comment form
+- [ ] adding comments to the post detail view
+- [ ] adding comments to the post detail template
 - [ ] 
